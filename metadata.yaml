@@ -1,0 +1,30 @@
+_repo: The-Romance-of-War-InventionsA-Description-of-Warships-Guns-Tanks-Rifles-Bombs-and-Other-Inst__34459
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34459-h/images/i_cover_tn.jpg
+creator:
+  author:
+    agent_name: Corbin, Thomas W.
+    gutenberg_agent_id: '37035'
+    url: http://www.gutenberg.org/2009/agents/37035
+description: ''
+gutenberg_issued: '2010-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34459'
+  lccn: '18017015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Naval art and science'
+- !lcsh 'Inventions'
+- !lcsh 'Military art and science'
+title: 'The Romance of War Inventions
+
+  A Description of Warships, Guns, Tanks, Rifles, Bombs, and Other Instruments and
+  Munitions of Warfare, How They Were Invented & How They Are Employed'
+url: http://www.gutenberg.org/ebooks/34459
